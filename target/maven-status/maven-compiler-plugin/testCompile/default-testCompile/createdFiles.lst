@@ -1,0 +1,4 @@
+scenarios/AppiumTest.class
+pages/LoginPage.class
+scenarios/AndroidSetup.class
+pages/BasePage.class
